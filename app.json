@@ -1,5 +1,5 @@
 {
-  "name": "FIRE MD",
+  "name": "BIPIN_TIKADER",
   "description": " BRINGING FORTH A NEW REVOLUTION.",
   "keywords": [
     "FIRE MD"
@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "917430046296;Bipin"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
